@@ -1,0 +1,3 @@
+This is file2master.txt.
+It was committed on the master branch after branch A and B are done.
+Will do a new branchC (from master) and a branchD (from branchC)...
