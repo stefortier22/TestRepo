@@ -1,2 +1,3 @@
 This is file1master.txt.
 It was committed on the master branch directly.
+Change made in master for a second commit.
