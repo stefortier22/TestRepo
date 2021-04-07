@@ -1,2 +1,3 @@
 This is file1branchB.txt.
 It was committed on the branchB.
+Make a change and do second commit to branchB.
