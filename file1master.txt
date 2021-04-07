@@ -1,0 +1,2 @@
+This is file1master.txt.
+It was committed on the master branch directly.
